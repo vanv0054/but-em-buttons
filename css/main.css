@@ -13,4 +13,13 @@ html {
 
 .btn-ghost {
   color: #b4fff4;
+  border-radius: 8px;
+}
+
+.btn-bottom .btn{
+  border-top: 0;
+  width: 142.9px;
+}
+.btn-bottom .btn-ghost {
+  border-radius: 5px;
 }
